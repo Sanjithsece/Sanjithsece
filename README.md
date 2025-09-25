@@ -45,15 +45,63 @@ I'm a passionate software developer with a strong foundation in Data Structures,
 
 ### 🚀 My Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **MoneyBridge** | A full-stack web app for peer-to-peer exchange of UPI and physical cash. Features secure login, request handling, and notifications. | `Spring Boot`, `React.js`, `JWT`, `REST APIs` |
-| **Foodie App** | A full-stack food ordering platform with menu browsing, a cart, and order tracking. Deployed on Vercel. | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
-| **Smart Blind Stick** | An IoT device to assist visually impaired individuals, with ultrasonic sensors for obstacle detection and a GPS module for navigation. | `IoT`, `Sensors` |
-| **Trip Planner** | A console-based Python app that generates travel itineraries with optimized routes and accommodations based on user input. | `Python` |
+### 💰 MoneyBridge
+[cite_start]A full-stack web app for peer-to-peer exchange of UPI and physical cash[cite: 22]. [cite_start]It includes secure login, request handling, and notifications[cite: 23].
+<p>
+  <b>Tech Stack:</b>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"></a>
+  <a href="#"><img alt="Rest API" src="https://img.shields.io/badge/REST_API-027585?style=for-the-badge&logo=api&logoColor=white"></a>
+</p>
+
+---
+
+### 🍔 Foodie App
+[cite_start]A full-stack food ordering platform using the MERN stack[cite: 27]. [cite_start]It features menu browsing, a cart, and order tracking, and is deployed on Vercel[cite: 27].
+<p>
+  <b>Tech Stack:</b>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+</p>
+
+---
+
+### 🦯 Smart Blind Stick
+[cite_start]An IoT device designed to assist visually impaired individuals by using ultrasonic sensors for obstacle detection and a GPS module for navigation[cite: 35].
+<p>
+  <b>Tech Stack:</b>
+  <a href="#"><img alt="IoT" src="https://img.shields.io/badge/IoT-439483?style=for-the-badge&logo=iot&logoColor=white"></a>
+  <a href="#"><img alt="Sensors" src="https://img.shields.io/badge/Sensors-8A2BE2?style=for-the-badge&logo=sensor&logoColor=white"></a>
+</p>
+
+---
+
+### ✈️ Trip Planner
+[cite_start]A console-based Python application that generates travel itineraries with optimized routes and accommodations based on user input[cite: 31].
+<p>
+  <b>Tech Stack:</b>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+</p>
 
 ---
 
 ### 📈 My Stats & Achievements
 
-- **LeetCode**: Max Rating 1621 (Top 21.4
+- [cite_start]**LeetCode**: Max Rating 1621 (Top 21.45%) [cite: 41]
+- [cite_start]**CodeChef**: Solved 500+ Problems (Max Rating 1093) [cite: 41]
+- [cite_start]**HackerRank**: 3-star in Java & 3-star in C++ [cite: 41]
+- [cite_start]**Project Expo**: 1st Prize at Sri Eshwar College (2024) [cite: 43]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjithsece&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🔗 Connect with me
+
+<p>
+  <a href="https://github.com/Sanjithsece"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
