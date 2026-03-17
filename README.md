@@ -101,12 +101,15 @@
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sanjith-s-668336283/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+<a href="https://sanjithsece.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
 
+</div>
 ---
 
 ## 👀 Profile Views  
