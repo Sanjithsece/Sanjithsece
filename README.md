@@ -120,20 +120,10 @@
 
 </div>
 
----
-
-## ✨ Extra Animation  
-
-<div align="center">
-
-<!-- Floating coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</div>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍  Snake  Animation  
 
 <div align="center">
 
