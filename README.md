@@ -28,22 +28,22 @@
 <br><br>
 
 <a href="https://sanjithsece.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Sanjithsece">
-<img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sanjith-s-668336283/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# `01 / DRIVER PROFILE`
+
 
 <div align="center">
 
@@ -53,29 +53,13 @@
 
 I'm **Sanjith**, a Computer & Communication Engineering student focused on building practical software systems.
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                  ENGINEERING PROFILE                 │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  FULL STACK        React · Node.js · Express         │
-│                                                      │
-│  JAVA              Java · OOP · Spring Boot          │
-│                                                      │
-│  DATABASE          MongoDB · MySQL                   │
-│                                                      │
-│  AI                Ollama · LLM · RAG · Embeddings   │
-│                                                      │
-│  CORE              DSA · DBMS · REST APIs            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+
 
 > I learn by building real projects and turning ideas into working systems.
 
 ---
 
-# `02 / TECHNICAL GARAGE`
+
 
 <div align="center">
 
@@ -193,11 +177,9 @@ I'm **Sanjith**, a Computer & Communication Engineering student focused on build
 
 ---
 
-# `04 / DEVELOPER ARCADE`
 
 <div align="center">
 
-### 🎮 CONTRIBUTION GALAGA
 
 `CODE → COMMIT → BUILD → REPEAT`
 
@@ -224,18 +206,7 @@ I'm **Sanjith**, a Computer & Communication Engineering student focused on build
 
 <br>
 
-### `MY CONTRIBUTIONS ARE THE SCORE.`
 
-</div>
-
----
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:111111&height=110&section=footer"
-/>
 
 ### `SANJITH S`
 
