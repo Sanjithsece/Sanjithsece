@@ -1,137 +1,145 @@
 <div align="center">
 
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Sanjith%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
 
-# 👋 Hey, I'm Sanjith  
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:111827&height=210&section=header&text=Sanjith%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+/>
 
-### 🚀 Full Stack Developer | MERN | Spring Boot  
+# 👋 Hey, I'm Sanjith
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Expert;Spring+Boot+Developer;DSA+Problem+Solver;Building+Real+World+Projects🔥"/>
+### 💻 Full Stack Developer | Java & React | AI Enthusiast
 
-</div>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%26+React+Developer;MERN+Stack+Developer;Building+AI+%26+RAG+Systems;AWS+Certified+Cloud+Practitioner;DSA+%26+Problem+Solving;Building+Real-World+Projects"
+/>
 
----
+<br>
 
-## 🧑‍💻 About Me  
-
-💻 Passionate about building **scalable web apps**  
-⚡ Strong in **DSA, OOP & Full Stack Development**  
-🚀 Built real-time & production-level projects  
-🌱 Exploring **AI + Backend Optimization**  
-
----
-
-## 🚀 Tech Stack  
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,cpp,python,c,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,postman&perline=7" />
-
-</div>
-
----
-
-## 🚀 Featured Projects  
-
-<div align="center">
-
-| 🚀 Project | 🔥 Description | ⚙️ Tech |
-|----------|--------------|--------|
-| 💰 **MoneyBridge** | Secure UPI & cash exchange system | Spring Boot, React, JWT |
-| 🎮 **Tic Tac Toe Pro** | Real-time multiplayer game | Socket.IO, MongoDB |
-| 🍔 **Foodie App** | Full-stack food ordering platform | MERN Stack |
-| 🦯 **Smart Blind Stick** | IoT assistive device | Sensors, GPS |
-
-</div>
-
----
-
-## 🏆 Achievements  
-
-<div align="center">
-
-🏅 **LeetCode Rating:** 1621  
-🔥 **400+ Problems Solved**  
-
-💡 **CodeChef:** 500+ Problems  
-
-⭐ **HackerRank:**  
-- Java ⭐⭐⭐⭐  
-- C++ ⭐⭐⭐  
-- Problem Solving ⭐⭐⭐  
-
-🥇 **Project Expo Winner (2024)**  
-📄 **IEEE Publication (Smart Blind Stick)**  
-
-</div>
-
----
-
-## 🎯 Coding Profiles  
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me  
-
-<div align="center">
-
-<a href="mailto:sanjithsece@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="https://sanjithsece.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Sanjithsece">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sanjith-s-668336283/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://sanjithsece.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
+
 ---
 
-## 👀 Profile Views  
+# `01 / ENGINEERING PROFILE`
+
+## 🧑‍💻 About Me
+
+I'm a **B.E. Computer and Communication Engineering student** at **Sri Eshwar College of Engineering**, focused on building practical software systems.
+
+💻 Building **Full Stack applications** using React, Node.js, Express.js and databases
+
+☕ Working with **Java, OOP, REST APIs and backend development**
+
+🤖 Currently exploring and building **Local AI, Ollama, LLM and RAG systems**
+
+🧠 Strong interest in **Data Structures, Algorithms, DBMS and Problem Solving**
+
+☁️ **AWS Certified Cloud Practitioner**
+
+🛠️ Experience building **Full Stack, AI and IoT projects**
+
+🎯 Currently focused on improving my **software engineering, backend, AI and system design skills**
+
+---
+
+# `02 / TECH STACK`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sanjithsece&label=Visitors&color=00F7FF&style=for-the-badge"/>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&perline=5" />
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vite&perline=6" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=3" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
+
+<br><br>
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,aws&perline=6" />
 
 </div>
 
+<br>
 
----
-
-## 🐍  Snake  Animation  
+### 🤖 AI / Emerging Technologies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanjithsece/Sanjithsece/output/github-contribution-grid-snake.svg"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM-111827?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0066FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Local%20AI-00D9FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Embeddings-Vector%20Search-111827?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=120&section=footer"/>
+# `03 / PROJECT GARAGE`
+
+> ### 🚀 Selected systems I've built while exploring Full Stack Development, AI and IoT.
+
+<br>
+
+## 🤖 `01` — AI RAG System
+
+### Local AI Assistant with Retrieval-Augmented Generation
+
+A local AI system that combines **Ollama, local language models, custom AI models, personal knowledge files and Retrieval-Augmented Generation (RAG)**.
+
+### ⚙️ Architecture
+
+```text
+Knowledge Files
+      │
+      ▼
+Text Processing
+      │
+      ▼
+Embeddings
+      │
+      ▼
+Vector Database
+      │
+      ▼
+Semantic Retrieval
+      │
+      ▼
+Relevant Context
+      │
+      ▼
+Ollama / LLM
+      │
+      ▼
+AI Response
