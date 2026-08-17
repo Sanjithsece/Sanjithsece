@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution games
+      - name: Generate Galaga Contribution Game
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sanjithsece
-          games: "breakout"
+          games: "galaga"
 
-      - name: Deploy Arcade Game
+      - name: Deploy Arcade
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
