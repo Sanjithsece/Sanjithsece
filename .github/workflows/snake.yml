@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Developer Arcade
 
 on:
   schedule:
@@ -13,15 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate contribution games
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sanjithsece
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+          games: "breakout"
 
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy Arcade Game
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
