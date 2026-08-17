@@ -111,66 +111,20 @@ I'm **Sanjith**, a Computer & Communication Engineering student focused on build
 
 ---
 
-# `03 / CODING PROFILE`
 
-<div align="center">
-
-### 🧠 PROBLEM SOLVING
-
-<table>
-<tr>
-<td align="center">
-
-🟠 **LEETCODE**
-
-**400+ Problems**
-
-**Max Rating: 1621**
-
-</td>
-
-<td align="center">
-
-🟤 **CODECHEF**
-
-**500+ Problems**
-
-**Max Rating: 1093**
-
-</td>
-
-<td align="center">
-
-🟢 **HACKERRANK**
-
-**Java ⭐⭐⭐⭐**
-
-**SQL ⭐⭐⭐⭐**
-
-</td>
-
-<td align="center">
-
-🔵 **SKILLRACK**
-
-**550+ Problems**
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<a href="YOUR_LEETCODE_PROFILE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://sanjithsece.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-<a href="YOUR_CODECHEF_PROFILE_URL">
-<img src="https://img.shields.io/badge/CODECHEF-PROFILE-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/Sanjithsece">
+  <img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK_PROFILE_URL">
-<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<a href="https://www.linkedin.com/in/sanjith-s-668336283/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -178,10 +132,8 @@ I'm **Sanjith**, a Computer & Communication Engineering student focused on build
 ---
 
 
-<div align="center">
 
 
-`CODE → COMMIT → BUILD → REPEAT`
 
 <br>
 
